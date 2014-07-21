@@ -1,0 +1,11 @@
+[
+    {
+        "name" : "grid",
+        "version" : "1.0",
+        "git" : "https://github.com/sdegutis/hydra-grid.git",
+        "author" : "Steven Degutis",
+        "license" : "MIT License",
+        "homepage" : "https://github.com/sdegutis/hydra-grid",
+        "docspage" : "https://github.com/sdegutis/hydra-grid"
+    }
+]
