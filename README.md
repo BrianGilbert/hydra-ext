@@ -4,6 +4,7 @@
 |------------------------------------------------------|----------------|---------|-------------------------------------------------------------------|
 | [appfinder](https://github.com/cmsj/hydra-appfinder) | Chris Jones    | MIT     | Helper functions for finding application/window objects easily    |
 | [grid](https://github.com/sdegutis/hydra-grid)       | Steven Degutis | MIT     | Utilities for tiling your windows along a semi-customizable grid. |
+| [grid-xy](https://github.com/briangilbert/hydra-grid)       | Brian Gilbert | MIT     | Utilities for tiling your windows along a semi-customizable grid (X and Y gridding). |
 
 ## Contributing a package
 
